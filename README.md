@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning MYSQL, EXCEL, POWER BI, TABLEAU, MICROSOFT SERVER, R, PYTHON
 - 💞️ I’m looking to collaborate on any of the above softwares
-- 📫 How to reach me (Janet Anuoluwapo Taiwo)[https://www.linkedln.com/janet-taiwo]
+- 📫 How to reach me [Janet Anuoluwapo Taiwo](https://www.linkedin.com/janet-taiwo)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
